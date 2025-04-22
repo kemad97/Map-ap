@@ -17,6 +17,7 @@
 		E16FE5492DB7AB3F00FAEADF /* MapTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E16FE5482DB7AB3F00FAEADF /* MapTests.m */; };
 		E16FE5532DB7AB3F00FAEADF /* MapUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E16FE5522DB7AB3F00FAEADF /* MapUITests.m */; };
 		E16FE5552DB7AB3F00FAEADF /* MapUITestsLaunchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E16FE5542DB7AB3F00FAEADF /* MapUITestsLaunchTests.m */; };
+		E187B7C62DB7B5E40092C599 /* MyAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = E187B7C52DB7B5E40092C599 /* MyAnnotation.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		E16FE54E2DB7AB3F00FAEADF /* MapUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MapUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E16FE5522DB7AB3F00FAEADF /* MapUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MapUITests.m; sourceTree = "<group>"; };
 		E16FE5542DB7AB3F00FAEADF /* MapUITestsLaunchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MapUITestsLaunchTests.m; sourceTree = "<group>"; };
+		E187B7C42DB7B5E40092C599 /* MyAnnotation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyAnnotation.h; sourceTree = "<group>"; };
+		E187B7C52DB7B5E40092C599 /* MyAnnotation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyAnnotation.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +118,8 @@
 				E16FE53A2DB7AB3F00FAEADF /* LaunchScreen.storyboard */,
 				E16FE53D2DB7AB3F00FAEADF /* Info.plist */,
 				E16FE53E2DB7AB3F00FAEADF /* main.m */,
+				E187B7C42DB7B5E40092C599 /* MyAnnotation.h */,
+				E187B7C52DB7B5E40092C599 /* MyAnnotation.m */,
 			);
 			path = Map;
 			sourceTree = "<group>";
@@ -267,6 +272,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E16FE5342DB7AB3D00FAEADF /* ViewController.m in Sources */,
+				E187B7C62DB7B5E40092C599 /* MyAnnotation.m in Sources */,
 				E16FE52E2DB7AB3D00FAEADF /* AppDelegate.m in Sources */,
 				E16FE53F2DB7AB3F00FAEADF /* main.m in Sources */,
 				E16FE5312DB7AB3D00FAEADF /* SceneDelegate.m in Sources */,

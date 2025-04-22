@@ -17,9 +17,18 @@
 					<string>SceneDelegate</string>
 					<key>UISceneStoryboardFile</key>
 					<string>Main</string>
+                    
 				</dict>
 			</array>
+            
 		</dict>
+        
 	</dict>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string> This app needs your location to show you on the map</string>
+    
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>This app needs your location to show you on the map </string>
+    
 </dict>
 </plist>
